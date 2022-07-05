@@ -1,0 +1,142 @@
+body{
+    margin:0px;
+}
+body p{
+    color:gray;
+}
+.frist-section{
+    display:flex;
+    padding-left:40px;
+}
+.half-width{
+    width:50%;
+}
+.half-width img{
+    width:120%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.frist-word-color{
+    color:orange;
+}
+.last-word-color{
+    color:rgb(100, 100, 100);
+}
+.paragraph{
+    color:gray;
+}
+.food-order-button{
+    background-image:linear-gradient(tomato,orange);
+    text-decoration:none;
+    padding:20px 22px;
+    color:white;
+    font-weight:900;
+    border-radius:10px;
+
+    
+}
+.second-section{
+    display:flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    width:100%;
+}
+.second-section img{
+    width:200px;
+}
+.second-hlaf{
+    width:50%;
+    padding-left:20%;
+    padding-right: 10%;
+    
+}
+h2{
+    font-size:40px;
+}
+.second-hlaf p{
+    color:gray;
+}
+.contact-button{
+    background-image:linear-gradient(tomato,orange);
+    text-decoration:none;
+    padding:20px 22px;
+    color:white;
+    font-weight:900;
+    border-radius:10px;
+}
+.racipies-part{
+    text-align: center;
+    padding-left:30%;
+    padding-top:2%;
+    padding-right:30%;
+}
+.racipies-part h3{
+    font-size: 30px;
+    color:rgb(93, 93, 93);
+}
+.racipies-part p{
+    color:gray;
+    padding:20px;
+}
+.third-section{
+    display:flex;
+}
+
+#last-image{
+    width:50%;
+    box-shadow: 10px 10px 40px gray;
+}
+#frist-image{
+    width:50%;
+    box-shadow: 10px 10px 40px gray;
+}
+.image-width-one{
+    width:40%;
+    padding-left:20%;
+    
+   
+}
+.image-width-two{
+    width:40%;
+    padding-right:10%;
+   
+
+}
+.forth-section{
+    display:flex;
+    box-shadow: 10px 10px 30px gray;
+    width:80%;
+    margin-left: 10%;
+    border-radius: 20px;
+    padding-bottom: 2%;
+}
+.a{
+    width:26%;
+    padding-left:20%;
+}
+.b{
+    width:26%;
+}
+.c{
+    width:26%;
+}
+.forth-section p{
+   color:gray;
+}
+.footer{
+    text-align:center;
+    padding:5%;
+    background-color: rgba(0, 0, 0, 0.934);
+    margin-top: 2%;
+}
+.footer span{
+    color:orange;
+}
+h4{
+    font-size: 30px;
+    color:rgb(108, 106, 106);
+}
+
